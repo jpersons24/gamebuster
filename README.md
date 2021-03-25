@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GameBuster
 
 GameBuster is a mock e-commerce web application built using *React with Hooks* on the front end and *Ruby on Rails* on the back end. Inspired but a combination of BlockBuster and Gamefly, Gamebuster gives users the chance to browse a variety of games for rent.
@@ -28,3 +29,4 @@ The final feature alloows for users to 'add' to their wallet. If they attempt to
 > The backend server does not necessarily need to be on port 4000. Any other port besides 3000 will suffice. The NPM server runs on localhost:3000.
 
 If you have questions, concerns or any issues please send an email to jakob.e.persons@gmail.com with a breif but detailed description of your issue. We will address the issue as soon as possible.
+>>>>>>> b09397bf539a0abc3599874f11203a44a34ce327
